@@ -36,7 +36,7 @@ Meteorolojik istasyonlardan alınan gerçek zamanlı verileri kullanarak:
 3. **Özellik ilişkileri** - Sıcaklık, nem, rüzgar gibi değişkenler arasındaki karmaşık ilişkilerin modellenmesi
 4. **Tahmin** - Bir sonraki zaman adımındaki (5 dakika sonraki) hava sıcaklığının tahmini
 
-## 📊 Örnek Çıktı
+## 📊 Performans Metrikleri
 
 * **R² Skoru** - 0.9870
 
